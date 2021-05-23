@@ -14,4 +14,10 @@ Mağaza kodu numarası: 496
 
 API kullanıcı adı: apitest
 
-API Parlası: api123
+API parolası: api123
+
+Kart numarası = 4033602562020327
+
+Son kullanma tarihi = 01/30
+
+Güvenlik kodu = 861
