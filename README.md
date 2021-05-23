@@ -1,5 +1,5 @@
 # Kuveyt Türk Sanal POS
-Kuveyt Türk Katılım Bankası Sanal POS'u için örnek kodlar.
+Kuveyt Türk Katılım Bankası Sanal POS'u için PHP örnek kodları.
 
 ## Kurulum
 Dizinde provizyon ve hata için 2 adet dosya oluşturulmalısınız.
